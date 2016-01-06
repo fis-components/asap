@@ -1,0 +1,14 @@
+{
+    "name": "asap",
+    "description": "High-priority task queue for Node.js and browsers",
+    "repos": "https://github.com/kriskowal/asap.git",
+    "main": "./asap.js",
+    "tag": "master",
+    "reposType": "npm",
+    "paths": {
+        "./asap": "./browser-asap.js",
+        "./raw": "./browser-raw.js",
+        "./test/domain": "./test/browser-domain.js"
+    },
+    "version": "2.0.1"
+}
