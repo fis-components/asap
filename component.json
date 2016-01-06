@@ -10,5 +10,5 @@
         "./raw.js": "./browser-raw.js",
         "./test/domain.js": "./test/browser-domain.js"
     },
-    "version": "2.0.2"
+    "version": "2.0.3"
 }
